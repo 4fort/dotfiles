@@ -34,3 +34,5 @@ Icons
 Icons
 
 - Hatter
+
+[Wallpaper](./background.jpg)
