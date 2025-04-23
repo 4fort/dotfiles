@@ -1,7 +1,5 @@
 # 4fort's Gnome Monochrome
 
-Please Star! 🥹
-
 ![Screenshot 1](./Screenshot%20From%202025-04-02%2023-57-29.png)
 ![Screenshot 2](./Screenshot%20From%202025-04-03%2000-11-39.png)
 ![Screenshot 3](./Screenshot%20From%202025-04-03%2000-18-05.png)
